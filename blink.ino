@@ -15,6 +15,10 @@ void setup() {
   pinMode(led, OUTPUT);     
 }
 
+
+// blink 2
+
+
 // the loop routine runs over and over again forever:
 void loop() {
   digitalWrite(led, HIGH);   // turn the LED on (HIGH is the voltage level)
